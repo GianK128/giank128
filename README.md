@@ -7,6 +7,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giankeberlein@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/giankeberlein)
 
+### También podés ver mi CV:
+ 
+[![CV en Google Drive](https://img.shields.io/badge/cv-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17_dG49oN7zCnRuNHYAR9VdN3nxFVFdjC/view?usp=sharing)
+
 </div>
 
 ## ⚡ Resumen rápido sobre mí
@@ -35,6 +39,7 @@
 
 ### Aplicaciones Nativas
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
