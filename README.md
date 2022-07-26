@@ -9,13 +9,13 @@
 
 ### También podés ver mi CV:
  
-[![CV en Google Drive](https://img.shields.io/badge/cv-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17_dG49oN7zCnRuNHYAR9VdN3nxFVFdjC/view?usp=sharing)
+[![CV en Google Drive](https://img.shields.io/badge/cv-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1S838pcXQMnS3KGV28ZujtfoO4wNJuRd1/view?usp=sharing)
 
 </div>
 
 ## ⚡ Resumen rápido sobre mí
 
-- Estoy en el 2do año de **Ingeniería Informática** en la **FIUBA**.
+- Estoy en el 2do año de **Ingeniería Informática** en la **Facultad de Ingenieria de la UBA**.
 - Me recibí de **técnico aviónico** en la **IMPA (E.E.S.T Nº7 T.R.Q.)** en Diciembre del 2021.
 - Tengo un grán interés en el **Desarrollo Web y Mobile**. Actualmente me capacito en desarrollo **Front End**.
 - Soy apasionado por el **Diseño y Desarrollo de Videojuegos**. Participé en las **GMTK Game Jam 2020 y 2021**, y ¡espero poder participar en más!
